@@ -1,0 +1,29 @@
+
+# Error 33
+
+## Enumeration
+
+`Error33`
+
+## Fields
+
+| Name |
+|  --- |
+| `MISSING_SCOPE` |
+| `CHANNEL_NOT_FOUND` |
+| `INVALID_TS_LATEST` |
+| `INVALID_TS_OLDEST` |
+| `NOT_AUTHED` |
+| `INVALID_AUTH` |
+| `ACCOUNT_INACTIVE` |
+| `INVALID_ARG_NAME` |
+| `INVALID_ARRAY_ARG` |
+| `INVALID_CHARSET` |
+| `INVALID_FORM_DATA` |
+| `INVALID_POST_TYPE` |
+| `MISSING_POST_TYPE` |
+| `INVALID_JSON` |
+| `JSON_NOT_OBJECT` |
+| `REQUEST_TIMEOUT` |
+| `UPGRADE_REQUIRED` |
+

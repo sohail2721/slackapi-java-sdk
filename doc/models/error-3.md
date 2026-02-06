@@ -1,0 +1,20 @@
+
+# Error 3
+
+## Enumeration
+
+`Error3`
+
+## Fields
+
+| Name |
+|  --- |
+| `FEATURE_NOT_ENABLED` |
+| `NOT_AN_ADMIN` |
+| `CHANNEL_NOT_FOUND` |
+| `CHANNEL_TYPE_NOT_SUPPORTED` |
+| `DEFAULT_ORG_WIDE_CHANNEL` |
+| `RESTRICTED_ACTION` |
+| `COULD_NOT_DELETE_CHANNEL` |
+| `MISSING_SCOPE` |
+

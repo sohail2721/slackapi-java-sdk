@@ -1,0 +1,25 @@
+
+# Error 4
+
+## Enumeration
+
+`Error4`
+
+## Fields
+
+| Name |
+|  --- |
+| `FEATURE_NOT_ENABLED` |
+| `NOT_AN_ADMIN` |
+| `NOT_AN_ENTERPRISE` |
+| `CHANNEL_NOT_FOUND` |
+| `NOT_SUPPORTED` |
+| `TEAM_NOT_FOUND` |
+| `RESTRICTED_ACTION` |
+| `MISSING_SCOPE` |
+| `LEAVING_TEAM_NOT_IN_CHANNEL` |
+| `NO_TEAMS_TO_DISCONNECT` |
+| `LEAVING_TEAM_REQUIRED` |
+| `CANNOT_KICK_TEAM` |
+| `CANNOT_KICK_HOME_TEAM` |
+

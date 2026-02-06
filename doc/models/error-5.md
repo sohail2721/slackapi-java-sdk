@@ -1,0 +1,20 @@
+
+# Error 5
+
+## Enumeration
+
+`Error5`
+
+## Fields
+
+| Name |
+|  --- |
+| `FEATURE_NOT_ENABLED` |
+| `NOT_AN_ADMIN` |
+| `NOT_AN_ENTERPRISE` |
+| `RESTRICTED_ACTION` |
+| `MISSING_SCOPE` |
+| `CHANNEL_NOT_FOUND` |
+| `CHANNEL_TYPE_NOT_SUPPORTED` |
+| `COULD_NOT_GET_CONVERSATION_PREFS` |
+

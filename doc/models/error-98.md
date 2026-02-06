@@ -1,0 +1,35 @@
+
+# Error 98
+
+## Enumeration
+
+`Error98`
+
+## Fields
+
+| Name |
+|  --- |
+| `BAD_IMAGE` |
+| `TOO_LARGE` |
+| `TOO_MANY_FRAMES` |
+| `NOT_FOUND` |
+| `NOT_AUTHED` |
+| `INVALID_AUTH` |
+| `ACCOUNT_INACTIVE` |
+| `TOKEN_REVOKED` |
+| `NO_PERMISSION` |
+| `ORG_LOGIN_REQUIRED` |
+| `USER_IS_BOT` |
+| `INVALID_ARG_NAME` |
+| `INVALID_ARRAY_ARG` |
+| `INVALID_CHARSET` |
+| `INVALID_FORM_DATA` |
+| `INVALID_POST_TYPE` |
+| `MISSING_POST_TYPE` |
+| `TEAM_ADDED_TO_ORG` |
+| `INVALID_JSON` |
+| `JSON_NOT_OBJECT` |
+| `REQUEST_TIMEOUT` |
+| `UPGRADE_REQUIRED` |
+| `FATAL_ERROR` |
+

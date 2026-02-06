@@ -1,0 +1,29 @@
+
+# Error 45
+
+## Enumeration
+
+`Error45`
+
+## Fields
+
+| Name |
+|  --- |
+| `MISSING_SCOPE` |
+| `CHANNEL_NOT_FOUND` |
+| `THREAD_NOT_FOUND` |
+| `NOT_AUTHED` |
+| `INVALID_AUTH` |
+| `ACCOUNT_INACTIVE` |
+| `INVALID_ARG_NAME` |
+| `INVALID_ARRAY_ARG` |
+| `INVALID_CHARSET` |
+| `INVALID_FORM_DATA` |
+| `INVALID_POST_TYPE` |
+| `MISSING_POST_TYPE` |
+| `TEAM_ADDED_TO_ORG` |
+| `INVALID_JSON` |
+| `JSON_NOT_OBJECT` |
+| `REQUEST_TIMEOUT` |
+| `UPGRADE_REQUIRED` |
+

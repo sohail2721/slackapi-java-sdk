@@ -1,0 +1,30 @@
+
+# Error 55
+
+## Enumeration
+
+`Error55`
+
+## Fields
+
+| Name |
+|  --- |
+| `FILE_NOT_FOUND` |
+| `FILE_DELETED` |
+| `CANT_DELETE_FILE` |
+| `NOT_AUTHED` |
+| `INVALID_AUTH` |
+| `ACCOUNT_INACTIVE` |
+| `NO_PERMISSION` |
+| `INVALID_ARG_NAME` |
+| `INVALID_ARRAY_ARG` |
+| `INVALID_CHARSET` |
+| `INVALID_FORM_DATA` |
+| `INVALID_POST_TYPE` |
+| `MISSING_POST_TYPE` |
+| `TEAM_ADDED_TO_ORG` |
+| `INVALID_JSON` |
+| `JSON_NOT_OBJECT` |
+| `REQUEST_TIMEOUT` |
+| `UPGRADE_REQUIRED` |
+

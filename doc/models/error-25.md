@@ -1,0 +1,28 @@
+
+# Error 25
+
+## Enumeration
+
+`Error25`
+
+## Fields
+
+| Name |
+|  --- |
+| `CHANNEL_NOT_FOUND` |
+| `NOT_IN_CHANNEL` |
+| `IS_ARCHIVED` |
+| `MSG_TOO_LONG` |
+| `NO_TEXT` |
+| `TOO_MANY_ATTACHMENTS` |
+| `RATE_LIMITED` |
+| `NOT_AUTHED` |
+| `INVALID_AUTH` |
+| `ACCOUNT_INACTIVE` |
+| `INVALID_ARG_NAME` |
+| `INVALID_ARRAY_ARG` |
+| `INVALID_CHARSET` |
+| `INVALID_FORM_DATA` |
+| `INVALID_POST_TYPE` |
+| `MISSING_POST_TYPE` |
+

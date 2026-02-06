@@ -1,0 +1,28 @@
+
+# Error 54
+
+## Enumeration
+
+`Error54`
+
+## Fields
+
+| Name |
+|  --- |
+| `CANT_DELETE` |
+| `COMMENT_NOT_FOUND` |
+| `NOT_AUTHED` |
+| `INVALID_AUTH` |
+| `ACCOUNT_INACTIVE` |
+| `NO_PERMISSION` |
+| `INVALID_ARG_NAME` |
+| `INVALID_ARRAY_ARG` |
+| `INVALID_CHARSET` |
+| `INVALID_FORM_DATA` |
+| `INVALID_POST_TYPE` |
+| `MISSING_POST_TYPE` |
+| `INVALID_JSON` |
+| `JSON_NOT_OBJECT` |
+| `REQUEST_TIMEOUT` |
+| `UPGRADE_REQUIRED` |
+

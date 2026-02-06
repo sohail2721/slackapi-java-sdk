@@ -1,0 +1,30 @@
+
+# Error 93
+
+## Enumeration
+
+`Error93`
+
+## Fields
+
+| Name |
+|  --- |
+| `LIMIT_REQUIRED` |
+| `INVALID_CURSOR` |
+| `NOT_AUTHED` |
+| `INVALID_AUTH` |
+| `ACCOUNT_INACTIVE` |
+| `NO_PERMISSION` |
+| `INVALID_ARG_NAME` |
+| `INVALID_ARRAY_ARG` |
+| `INVALID_CHARSET` |
+| `INVALID_FORM_DATA` |
+| `INVALID_POST_TYPE` |
+| `MISSING_POST_TYPE` |
+| `TEAM_ADDED_TO_ORG` |
+| `INVALID_JSON` |
+| `JSON_NOT_OBJECT` |
+| `REQUEST_TIMEOUT` |
+| `UPGRADE_REQUIRED` |
+| `FATAL_ERROR` |
+

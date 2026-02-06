@@ -1,0 +1,20 @@
+
+# Error 10
+
+## Enumeration
+
+`Error10`
+
+## Fields
+
+| Name |
+|  --- |
+| `FEATURE_NOT_ENABLED` |
+| `NOT_AN_ADMIN` |
+| `CHANNEL_NOT_FOUND` |
+| `CHANNEL_TYPE_NOT_SUPPORTED` |
+| `RESTRICTED_ACTION` |
+| `MISSING_SCOPE` |
+| `COULD_NOT_SET_CHANNEL_PREF` |
+| `DEFAULT_ORG_WIDE_CHANNEL` |
+

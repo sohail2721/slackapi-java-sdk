@@ -1,0 +1,30 @@
+
+# Error 57
+
+## Enumeration
+
+`Error57`
+
+## Fields
+
+| Name |
+|  --- |
+| `USER_NOT_FOUND` |
+| `UNKNOWN_TYPE` |
+| `NOT_AUTHED` |
+| `INVALID_AUTH` |
+| `ACCOUNT_INACTIVE` |
+| `NO_PERMISSION` |
+| `USER_IS_BOT` |
+| `INVALID_ARG_NAME` |
+| `INVALID_ARRAY_ARG` |
+| `INVALID_CHARSET` |
+| `INVALID_FORM_DATA` |
+| `INVALID_POST_TYPE` |
+| `MISSING_POST_TYPE` |
+| `TEAM_ADDED_TO_ORG` |
+| `INVALID_JSON` |
+| `JSON_NOT_OBJECT` |
+| `REQUEST_TIMEOUT` |
+| `UPGRADE_REQUIRED` |
+

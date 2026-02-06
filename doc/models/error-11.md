@@ -1,0 +1,20 @@
+
+# Error 11
+
+## Enumeration
+
+`Error11`
+
+## Fields
+
+| Name |
+|  --- |
+| `FEATURE_NOT_ENABLED` |
+| `CHANNEL_NOT_FOUND` |
+| `CHANNEL_NOT_ARCHIVED` |
+| `CHANNEL_TYPE_NOT_SUPPORTED` |
+| `RESTRICTED_ACTION` |
+| `COULD_NOT_UNARCHIVE_CHANNEL` |
+| `DEFAULT_ORG_WIDE_CHANNEL` |
+| `MISSING_SCOPE` |
+
